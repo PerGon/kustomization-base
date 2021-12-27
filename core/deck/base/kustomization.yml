@@ -4,5 +4,4 @@ resources:
 - deployment.yml
 - service.yml
 commonLabels:
-  app.kubernetes.io/name: deck
   app.kubernetes.io/instance: deck
